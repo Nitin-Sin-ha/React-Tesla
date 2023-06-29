@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  font-family: "Museo Sans";
+  overflow-y: scroll;
+}
+
+button{
+  font-size: 17px;
+  padding: 9px 50px;
+  border-radius: 6px;
+  border-color: none;
+  margin: 12px;
+  opacity:80%;
+}
+
+a{
+  cursor: pointer;
+  
+}
